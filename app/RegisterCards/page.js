@@ -43,7 +43,7 @@ function page() {
             <div className="row mt-lg-4 my-4 ">
                 <div className="col-lg-4">
                     <div className="oto-card mb-2">
-                        <img src="images/download.jpg" alt="" />
+                        <img src="images/house.jpg" alt="" />
                         <div className="oto-card-link text-center">
                             <a href="/Register">Home Services</a>
                         </div>
