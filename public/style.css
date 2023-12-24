@@ -33,7 +33,7 @@ select{
 select option{
     color:  #595c5f;    
 }
-@media (max-width: 1916px) {
+@media (max-width: 2000px) {
     .navbar .navbar-toggler1{
         display: none;
     }
