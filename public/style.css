@@ -842,6 +842,17 @@ input::placeholder {
 .about-how-card h4{
     margin: 20px auto;
 }
+@media (max-width: 2000px) {
+    .about-how-card1 img{
+        width: 35.4%;
+    }
+    .about-how-card2 img{
+        width: 37.3%;
+    }
+    .about-how-card3 img{
+        width: 47.8%;
+    }
+}
 @media (max-width: 1768px) {
     .about-how-card2 img{
         width: 37.3%;
@@ -954,6 +965,13 @@ input::placeholder {
         height: 45vh;
     } 
 }
+@media (max-width: 2000px){
+    .auto-out img{
+        margin-top: 0vh;
+        width: 75%;
+        height: 47vh;
+    } 
+}
 @media (max-width: 992px){
     .auto-out img{
         padding-left: 4vh;
@@ -987,6 +1005,17 @@ input::placeholder {
     border-radius: 12px;
     padding: 15px;
     text-align: center;
+}
+@media (max-width: 2000px){
+    .journey .auto-card1 img{
+        width: 68%;
+    }
+    .journey .auto-card2 img{
+        width: 96.5%;
+    }
+    .journey .auto-card3 img{
+        width: 86.4%;
+    }
 }
 @media (max-width: 1768px){
     .journey .auto-card1 img{
@@ -1065,9 +1094,16 @@ input::placeholder {
     width: 300px;
     height: 200px; 
 }
+@media (max-width: 2000px) {
+    .rentail-journy img{
+        margin-top: -100px;
+        width: 80%;
+    }
+}
 @media (max-width: 992px) {
     .journey .rentail-card1 p{
          padding: 0px 15px;
+         margin-top: 0px;
     }
     .journey .rentail-card2 p{
         padding: 0px 15px;
