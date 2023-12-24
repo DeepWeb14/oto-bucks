@@ -26,8 +26,8 @@ function page() {
                                     in their area and book appointments with their preferred mechanic. You can also promote your services and gain new clients.</p>
                             </div>
                         </div>
-                        <div className="col-lg-7 text-center mt-sm-4 ms-lg-2 reg-right p-3 d-flex justify-content-center flex-column">
-                            <h2 className="mb-2 mt-sm-3">Welcome To Service Provider Registration!</h2>
+                        <div className="col-lg-7 text-center mt-sm-4 ms-lg-2 reg-right ps-lg-4 d-flex justify-content-center flex-column">
+                            <h2 className="mb-3 mt-sm-3">Welcome To Service Provider Registration!</h2>
                             <span className='d-flex'>We look forward to long term business partnership</span>
                             <div className="row">
                                 <div className="col-sm-6">
@@ -144,7 +144,7 @@ function page() {
                                     </div>
                                 </div>
                                 <button type="submit" className="btn form-btn ms-sm-2  reg-btn mb-2 mb-sm-3 ">Register</button>
-                                <div className='d-flex justify-content-between'>
+                                <div className='d-flex justify-content-between reg-p'>
                                     <p>Already have an account <Link className="reg" href="/Login">Sign in</Link></p>
                                     <p>Having trouble in registeration, <Link className="reg" target='blank' href="https://api.whatsapp.com/send?phone=971542457866">Contact us</Link></p>
                                 </div>

@@ -176,7 +176,7 @@ function About() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 mt-3">
+                        <div className="col-lg-6 contact-inp mt-3">
                             <form>
                                 <input type="text" placeholder="Your Name" />
                                 <input type="email" placeholder="Your Email" />

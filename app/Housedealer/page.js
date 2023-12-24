@@ -17,8 +17,8 @@ function House() {
                     <div className="row">
                         <div className="col-lg-6 d-flex justify-content-center align-items-center mt-lg-5">
                             <div className="container">
-                                <h1 className="mb-2">Premium House <span>Dealers</span></h1>
-                                <p className="mb-3" style={{ lineHeight: '30px' }}>Your Trusted Partner for Reliable Home Solutions From Fix-ups to Upgrades. Elevate Your Home with Our Services! 
+                                <h1 className="mb-2">Your Trusted Partner for  <span>Reliable Home Solutions</span></h1>
+                                <p className="mb-3" style={{ lineHeight: '30px' }}>  From Fix-ups to Upgrades. Elevate Your Home with Our Services! 
                                 </p>
                                 <div className="d-flex gap-3">
                                     <a href="#"><button className="btn-web org-btn">Partner With Us</button></a>
