@@ -124,7 +124,7 @@ function CarDealer() {
                         </div>
                         <div className="col-lg-4 col-md-6">
                             <div className="dealer-card dealer-card2 mb-2 px-4 py-3">
-                                <img className="img-fluid" src="images/pngwing 24.png" alt="" />
+                                <img className="img-fluid" src="images/bro-takes-photos-2NId3wBlG7k-unsplash-removebg-preview.png" alt="" />
                                 <h3>Competitive Pricing</h3>
                                 <p>We collaborate with trusted financial institutions to secure favorable terms</p>
                                 <button className="btn-web1 w-100">Book Now

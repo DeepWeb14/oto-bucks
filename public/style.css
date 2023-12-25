@@ -484,7 +484,7 @@ aside .pages {
 @media (max-width: 350px) {
     .btn-trans{
         font-size: 9px;
-        padding: 10.8px 13px;
+        padding: 11px 14px;
         
     }
     .btn-web{
@@ -1140,15 +1140,15 @@ input::placeholder {
 @media (max-width: 2000px){
     .dealer-card2 img{
        width: 100%;
-       height: 166px;
+       height: 176px;
     }
     .dealer-card1 img{
-        width: 100%;
-        height: 109px;
+        width: 80%;
+        height: 175px;
      }
-     .dealer-card1 img{
-        width: 100%;
-        height: 165px;
+     .dealer-card3 img{
+        width: 80%;
+        height: 175px;
      }
 }
 @media (max-width: 1400px){
@@ -1163,17 +1163,17 @@ input::placeholder {
        height: 120px;
     }
     .dealer-card1 img{
-        width: 100%;
+        width: 90%;
         height: 120px;
      }
      .dealer-card3 img{
-        width: 100%;
+        width: 90%;
         height: 120px;
      }
 }
 @media (max-width: 992px){
     .dealer-card2 img{
-       width: 100%;
+       width: 90%;
        height: 140px;
     }
     .dealer-card1 img{
@@ -1191,13 +1191,27 @@ input::placeholder {
          height: 150px;
       }
       .dealer-card2 img{
-        width: 70%;
+        width: 60%;
         height: 150px;
      }
       .dealer-card3 img{
          width: 60%;
          height: 150px;
       }
+}
+@media (max-width: 350px){
+    .dealer-card1 img{
+        width: 60%;
+        height: 150px;
+     }
+     .dealer-card2 img{
+       width: 100%;
+       height: 150px;
+    }
+     .dealer-card3 img{
+        width: 60%;
+        height: 150px;
+     }
 }
 
 /* House Dealer */
@@ -1326,6 +1340,21 @@ input::placeholder {
     .partner-img-2 img{
         width: 48px;
         height: 48px;
+    }
+}
+@media (max-width: 350px) {
+    .partner-content  img{
+        width: 100%;
+        height: 35px;
+        margin-top: 0px;
+    }
+    .partner-content h2{
+        font-size: 18px;
+    }
+    .partner-content p{
+        font-size: 14px;
+        margin-right: -20px;
+        margin-bottom: 0px;
     }
 }
 
@@ -1459,11 +1488,13 @@ input::placeholder {
     .contact h5{
         color: var(--yellow);
         font-weight: 700;
-        margin-top: .1rem;
+        margin-top: 9px;
         font-size: 14px;
     }
     .contact-text p{
         font-size: 14px;
+        display: flex;
+        align-items: center;
     }
     .contect-map iframe{
         width: 100%;

@@ -43,7 +43,7 @@ function Auto() {
                         </div>
                         <div className="col-lg-7 pt-5">
                             <div className='container auto-out-content'>
-                            <h1 className="mb-2">Out plateform connects you <span>With a Network of Machanics</span></h1>
+                            <h1 className="mb-2">Oto Platform Connects You  <span>With A Network of Mechanics</span></h1>
                             <p>Do you demand only the best service for your vehicle? Well, no matter how complicated they might be, the workshops will handle your car with care. 
                                 These mechanics have been trained under the most experienced technicians and hence you can rest assured to get quality work done</p>
                                 <div className="d-flex">
